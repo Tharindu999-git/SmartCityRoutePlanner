@@ -54,4 +54,4 @@ The main objective of this project is to design and implement a **graph-based co
 ### Option 1 – Using Command Line
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/SmartCityRoutePlanner.git
+   git clone https://github.com/Tharindu999-git/SmartCityRoutePlanner.git
